@@ -1,0 +1,1 @@
+first readme shell basics
