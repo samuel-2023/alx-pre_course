@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 sam2022 sam2022 4096 Aug  9 15:35 .
+drwxrwxr-x 6 sam2022 sam2022 4096 Aug  9 13:50 ..
+-rwxrw-r-- 1 sam2022 sam2022   32 Aug  9 13:52 0-hello_world
+-rwxrw-r-- 1 sam2022 sam2022   31 Aug  9 14:17 1-confused_smiley
+-rwxrw-r-- 1 sam2022 sam2022   33 Aug  9 14:23 2-hellofile
+-rwxrw-r-- 1 sam2022 sam2022   39 Aug  9 14:30 3-twofiles
+-rwxrw-r-- 1 sam2022 sam2022   29 Aug  9 14:33 4-lastlines
+-rwxrw-r-- 1 sam2022 sam2022   29 Aug  9 14:37 5-firstlines
+-rwxrw-r-- 1 sam2022 sam2022   50 Aug  9 14:54 6-third_line
+-rwxrw-r-- 1 sam2022 sam2022  100 Aug  9 15:30 7-file
+-rwxrw-r-- 1 sam2022 sam2022   37 Aug  9 15:34 8-cwd_state
+-rw-rw-r-- 1 sam2022 sam2022   12 Aug  9 15:30 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sam2022 sam2022 1018 Aug  9 15:02 iacta
+-rw-rw-r-- 1 sam2022 sam2022    0 Aug  9 15:35 ls_cwd_contact
+-rw-rw-r-- 1 sam2022 sam2022   32 Aug  9 13:51 README.md
