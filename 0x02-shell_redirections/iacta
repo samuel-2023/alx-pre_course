@@ -1,0 +1,6 @@
+It's important to note that exiting the command mode in Linux depends on the specific context in which you are working. If you are using a specific application or environment, there may be additional steps or commands required to exit. If you provide more details about the specific command mode you are referring to, I can provide more targeted
+Terminate a running command: If you are in command mode and want to exit a running command or process, you can use the keyboard shortcut Ctrl + C. This sends an interrupt signal (SIGINT) to the currently running command, terminating it.
+Exit a shell session: If you are using a shell such as Bash, you can exit the current session by typing the exit command and pressing Enter. This will terminate the current shell and return you to the previous environment.
+
+Use keyboard shortcuts: In most Linux shells, you can use the keyboard shortcut Ctrl + D to exit the current shell session. This sends an end-of-file (EOF) signal, which is interpreted as the command to exit.rm
+Use keyboard shortcuts: In most Linux shells, you can use the keyboard shortcut Ctrl + D to exit the current shell session. This sends an end-of-file (EOF) signal, which is interpreted as the command to exit.rm
